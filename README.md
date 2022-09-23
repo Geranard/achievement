@@ -24,7 +24,7 @@
 |Blue|Hack The Box|https://www.hackthebox.com/achievement/machine/420156/51|16 August 2022|
 |Racecar|Hack The Box|https://www.hackthebox.com/achievement/challenge/420156/242|16 August 2022|
 |Jeeves|Hack The Box|https://www.hackthebox.com/achievement/challenge/420156/167|16 August 2022|
-|Emdee Five For Life|https://www.hackthebox.com/achievement/challenge/420156/67|16 August 2022|
+|Emdee Five For Life|Hack The Box|https://www.hackthebox.com/achievement/challenge/420156/67|16 August 2022|
 |Forest|Hack The Box|https://www.hackthebox.com/achievement/machine/420156/212|17 August 2022|
 |Support|Hack The Box|https://www.hackthebox.com/achievement/machine/420156/484|19 August 2022|
 |Legacy|Hack The Box|https://www.hackthebox.com/achievement/machine/420156/2|23 August 2022|
