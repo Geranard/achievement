@@ -34,6 +34,9 @@
 |Arctic|Hack The Box|https://www.hackthebox.com/achievement/machine/420156/9|10 September 2022|
 |Grandpa|Hack The Box|https://www.hackthebox.com/achievement/machine/420156/13|16 September 2022|
 |Granny|Hack The Box|https://www.hackthebox.com/achievement/machine/420156/14|22 September 2022|
+|Shoppy|Hack The Box|https://www.hackthebox.com/achievement/machine/420156/496|30 September 2022|
+|Photobomb|Hack The Box|https://www.hackthebox.com/achievement/machine/420156/500|15 October 2022|
+|Hunting|Hack The Box|https://www.hackthebox.com/achievement/challenge/420156/144|15 October 2022|
 |Follina|BTLO|https://blueteamlabs.online/achievement/share/challenge/29099/43|22 July 2022|
 |Injection Series Part 4|BTLO|https://blueteamlabs.online/achievement/share/challenge/29099/41|23 July 2022|
 |Source|BTLO|https://blueteamlabs.online/achievement/share/challenge/29099/38|24 July 2022|
