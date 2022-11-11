@@ -1,5 +1,5 @@
 # Achievement
-
+Spreadsheet Version Of This Tables Is Here: https://docs.google.com/spreadsheets/d/1302RAsCmy7aGE-brFmUQuTAc-H8Mw_4Q1l4INQj_oyU/edit?usp=sharing
 ## Achievement on Platforms
 ---
 |Name|Platform|Links|Date|
